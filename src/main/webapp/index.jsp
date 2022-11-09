@@ -12,7 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-            <h1>Listado de Personas</h1>
+                <p>SEGUNDO PARCIAL TEM-742</p>
+                <p>Nombre: Jesus Omar Chavez Maydana</p>
+                <p>Carnet: 9253032</p>
+            <h1>Productos</h1>
             <a href="MainController?op=nuevo">Nuevo</a>
             <table border="1">
                 <tr>
